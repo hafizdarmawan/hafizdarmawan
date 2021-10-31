@@ -2,6 +2,8 @@
 
 **hafizdarmawan/hafizdarmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Gmail Badge](https://img.shields.io/badge/-hafizzdarmawann@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hafizzdarmawann@gmail.com)](mailto:hafizzdarmawann@gmail.com) 
+
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Freamwork Laravel & JavaScript
