@@ -3,7 +3,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hafizdarmawan&show_icons=true&theme=radical"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizdarmawan&layout=compact"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizdarmawan&" alt="hafizdarmawan" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizdarmawan&" alt="hafizdarmawan" /></p>
 
